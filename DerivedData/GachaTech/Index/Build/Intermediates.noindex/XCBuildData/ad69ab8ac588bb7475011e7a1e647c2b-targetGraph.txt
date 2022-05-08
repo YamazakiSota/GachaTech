@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-GachaTech in GachaTech, no dependencies
-GachaTech in GachaTech, no dependencies
