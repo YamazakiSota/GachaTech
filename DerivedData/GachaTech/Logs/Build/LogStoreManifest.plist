@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B1F0CDA2-67A8-4B23-8D17-1350DBC4F2C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1F0CDA2-67A8-4B23-8D17-1350DBC4F2C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GachaTech project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GachaTech</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GachaTech</string>
+			<key>timeStartedRecording</key>
+			<real>673545919.79570997</real>
+			<key>timeStoppedRecording</key>
+			<real>673545927.02917802</real>
+			<key>title</key>
+			<string>Build GachaTech</string>
+			<key>uniqueIdentifier</key>
+			<string>B1F0CDA2-67A8-4B23-8D17-1350DBC4F2C8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
